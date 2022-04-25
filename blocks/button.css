@@ -11,7 +11,7 @@
   line-height: 1.2;
   transition: background-color 0.25s ease-in-out;
   color: #fff;
-  }
+}
   
 .button:hover {
   background-color: #0063d2;
