@@ -6,7 +6,6 @@
 .places__item {
   display: grid;
   grid-template-columns: 460px 1fr;
-    /* grid-template-columns: repeat(auto-fit, minmax(460px, 1fr)); */
   grid-template-rows: auto 460px auto;
   grid-gap: 48px 35px;
   grid-template-areas:
@@ -82,7 +81,6 @@
   }
   .places__item {
     grid-template-columns: 340px 1fr;
-      /* grid-template-columns: repeat(auto-fit, minmax(1fr, 340px)); */
     grid-template-rows: auto 340px auto;
     margin-top: 72px;
     grid-gap: 48px 28px;
@@ -119,9 +117,6 @@
   .places__image {
     max-height: 320px;
     grid-area: image;
-      /* margin-left: calc(50% - 50vw);
-      margin-right: calc(50% - 50vw); */
-  
     width: 100%;
     max-width: 100vw;
   }
