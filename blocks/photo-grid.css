@@ -5,7 +5,7 @@
 .photo-grid__list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
-  grid-gap: 16px;
+  gap: 16px;
   list-style-type: none;
   box-sizing: border-box;
   padding: 0%;
