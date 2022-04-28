@@ -61,6 +61,7 @@
   line-height: 1.63;
   grid-area: description;
   max-width: 484px;
+  margin: 0 auto;
 }
 
 .places__text {
