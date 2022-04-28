@@ -25,6 +25,7 @@
   line-height: 1.06;
   margin: 0;
   grid-area: title;
+  align-self: end;
 }
   
 .places__artist {
