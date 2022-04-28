@@ -1,4 +1,7 @@
 .button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
   background-color: #0278fe;
   border-radius: 4px;
   max-height: 48px;
