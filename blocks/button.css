@@ -2,13 +2,14 @@
   display: flex;
   flex-direction: row;
   align-items: flex-start;
+  text-align: center;
   background-color: #0278fe;
   border-radius: 4px;
   max-height: 48px;
   box-sizing: border-box;
   text-decoration: none;
-  text-align: center;
   padding: 13px 20px;
+  justify-content: center;
   font-weight: 600;
   font-size: 18px;
   line-height: 1.2;
