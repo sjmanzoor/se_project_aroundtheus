@@ -78,6 +78,7 @@ margin-bottom: 0;
 .places__link {
   width: 248px;
   grid-area: link;
+  justify-content: center;
 }
 
 @media screen and (max-width: 1000px) {
@@ -146,6 +147,5 @@ margin-bottom: 0;
   .places__link {
     width: 288px;
     margin-left: calc((100% - 288px) / 2);
-    justify-content: center;
   }
 }
