@@ -143,5 +143,6 @@
   .places__link {
     width: 288px;
     margin-left: calc((100% - 288px) / 2);
+    justify-content: center;
   }
 }
