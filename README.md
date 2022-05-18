@@ -11,4 +11,4 @@
 
 **Live Project**
 
-🔴 [From Homeland to Homeland](https://sjmanzoor.github.io/web_project_3/)
+🔴 [From Homeland to Homeland]([https://sjmanzoor.github.io/web_project_3/](https://sjmanzoor.github.io/se_project_aroundtheus/))
